@@ -1,5 +1,3 @@
-#  EDA Ecommerce Dataset
-# Hamna Amin (FA23-BST-028)
 
 import streamlit as st
 import pandas as pd
